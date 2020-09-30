@@ -1,1 +1,1 @@
-# Analysis-On-Twitter-messages-about-demonetization
+# Analysis On Twitter messages about demonetization
